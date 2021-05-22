@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.finalrunner.com.Runner_Adactin
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.203 s <<< FAILURE! - in com.finalrunner.com.Runner_Adactin
+initializationError(com.finalrunner.com.Runner_Adactin)  Time elapsed: 0.042 s  <<< ERROR!
+java.lang.NoClassDefFoundError: Lorg/openqa/selenium/WebDriver;
+Caused by: java.lang.ClassNotFoundException: org.openqa.selenium.WebDriver
+
